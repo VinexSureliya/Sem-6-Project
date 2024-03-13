@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890591776184",
+    "project_id": "rapidreels-7e588",
+    "storage_bucket": "rapidreels-7e588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890591776184:android:fc7ef5bd31e923e7afd34d",
+        "android_client_info": {
+          "package_name": "com.example.rapidreels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn6gmqECDQV5I_z4wmNH7c96k9S6MwLsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
